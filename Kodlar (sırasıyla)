@@ -1,0 +1,7 @@
+cd $HOME
+git init
+git add redteam.py
+git commit -m "First commit - Red Team Toolkit by Hexadicial"
+git branch -M main
+git remote add origin https://github.com/Hexadicial/Noctis_Hack_Team_Toolkit.git
+git push -u origin main
